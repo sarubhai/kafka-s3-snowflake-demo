@@ -1,4 +1,5 @@
-
+## Kafka-S3-Snowflake
+Demo of dataflow from Kafka Topics to S3 Datalake and further near realtime streaming of data to Snowflake Datawarehouse.
 
 ### Docker Desktop
 Below are the resource specification of Docker Desktop to deploy the containers properly.
